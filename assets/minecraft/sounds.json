@@ -1,0 +1,154 @@
+{
+
+    "ambient.jungle.loop": {
+     "sounds": [
+     {
+       "name": "ambient/jungle/loop",
+       "stream": false
+     }
+     ]
+   },
+   "ambient.desert.loop": {
+    "sounds": [
+    {
+      "name": "ambient/desert/loop",
+      "stream": false
+    }
+    ]
+  },
+  "ambient.snow.loop": {
+    "sounds": [
+    {
+      "name": "ambient/snow/loop",
+      "stream": false
+    }
+    ]
+  },
+  "ambient.mega_taiga.loop": {
+    "sounds": [
+    {
+      "name": "ambient/mega_taiga/loop",
+      "stream": false
+    }
+    ]
+  },
+  "ambient.volcanic.loop": {
+    "sounds": [
+    {
+      "name": "ambient/volcanic/loop",
+      "stream": false
+    }
+    ]
+  },
+  "ambient.badlands.loop": {
+    "sounds": [
+    {
+      "name": "ambient/badlands/loop",
+      "stream": false
+    }
+    ]
+  },
+  "ambient.swamp.loop": {
+    "sounds": [
+    {
+      "name": "ambient/swamp/loop",
+      "stream": false
+    }
+    ]
+  },
+  "ambient.savanna.loop": {
+    "sounds": [
+    {
+      "name": "ambient/savanna/loop",
+      "stream": false
+    }
+    ]
+  },
+  "ambient.mountains.loop": {
+    "sounds": [
+    {
+      "name": "ambient/mountains/loop",
+      "stream": false
+    }
+    ]
+  },
+  "ambient.beach.loop": {
+    "sounds": [
+    {
+      "name": "ambient/beach/loop",
+      "stream": false
+    }
+    ]
+  },
+  "ambient.ocean.loop": {
+    "sounds": [
+    {
+      "name": "ambient/ocean/loop",
+      "stream": false
+    }
+    ]
+  },
+  "ambient.frozen_ocean.loop": {
+    "sounds": [
+    {
+      "name": "ambient/frozen_ocean/loop",
+      "stream": false
+    }
+    ]
+  },
+  "ambient.forest.loop": {
+    "sounds": [
+    {
+      "name": "ambient/forest/loop",
+      "stream": false
+    }
+    ]
+  },
+  "ambient.plains.loop": {
+    "sounds": [
+    {
+      "name": "ambient/plains/loop",
+      "stream": false
+    }
+    ]
+  },
+  "ambient.cave.loop": {
+    "sounds": [
+    {
+      "name": "ambient/cave/loop",
+      "stream": false
+    }
+    ]
+  },
+  "ambient.base.loop": {
+    "sounds": [
+    {
+      "name": "ambient/base/loop",
+      "stream": false
+    }
+    ]
+  },
+  "ambient.battleship.loop": {
+    "sounds": [
+    {
+      "name": "ambient/battleship/loop",
+      "stream": false
+    }
+    ]
+  },
+  "ambient.ice_spikes.loop": {
+    "sounds": [
+    {
+      "name": "ambient/ice_spikes/loop",
+      "stream": false
+    }
+    ]
+  },
+    "custom.apocalyptic_alarm": { "sounds": [ "custom/apocalyptic_alarm" ] },
+"custom.meteoritesound": { "sounds": [ "custom/meteoritesound"]},
+"custom.thunder_close": { "sounds": [ "custom/thunder/close1","custom/thunder/close2","custom/thunder/close3","custom/thunder/close4"]},
+"custom.thunder_distant": { "sounds": [ "custom/thunder/distant1","custom/thunder/distant2","custom/thunder/distant3","custom/thunder/distant4"]},
+"custom.fard": { "sounds": [ "custom/fard"]},
+"custom.whutduhhell": { "sounds": [ "custom/whutduhhell"]},
+"custom.disaster_alarm": { "sounds": [ "custom/disaster_alarm"]},
+"custom.lobby_music": { "sounds": [ "custom/lobby_music"]}}
