@@ -1,0 +1,40 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "fenrir",
+        "model": {
+          "type": "minecraft:model",
+          "model": "lw:teleporter/fenrir"
+        }
+      },
+            {
+        "when": "dragon",
+        "model": {
+          "type": "minecraft:model",
+          "model": "lw:teleporter/dragon"
+        }
+      },
+            {
+        "when": "kraken",
+        "model": {
+          "type": "minecraft:model",
+          "model": "lw:teleporter/kraken"
+        }
+      },
+            {
+        "when": "pheonix",
+        "model": {
+          "type": "minecraft:model",
+          "model": "lw:teleporter/pheonix"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "lw:teleporter/default"
+    }
+  }
+}
