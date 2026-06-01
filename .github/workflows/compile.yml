@@ -50,5 +50,5 @@ jobs:
         with:
           body: '${{ github.event.inputs.description }}'
           name: 'v${{ github.event.inputs.release-version }}'
-          tag_name: '${{ github.event.inputs.tag }}'
+          tag_name: '${{ github.event.inputs.tag }}-${{ github.event.inputs.release-version }}'
           files: '/tmp/LWPack v${{ github.event.inputs.release-version }}.zip'
