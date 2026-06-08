@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "lw:items/corrupted_grenade",
+    "tints": [
+      {
+        "type": "minecraft:potion",
+        "default": 15461098
+      }
+    ]
+  }
+}
