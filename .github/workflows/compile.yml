@@ -57,7 +57,7 @@ jobs:
         id: file-sha
         run: |
           # Calculate the SHA1 and trim the resulting hash (stripping out the filename)
-          HASH=$(sha1sum path/to/your/file.txt | awk '{ print $1 }')
+          HASH=$(sha1sum '/tmp/LWPack v${{ github.event.inputs.release-version }}.zip' | awk '{ print $1 }')
           
           # Store the hash in the GITHUB_OUTPUT environment file
           echo "file_sha1=$HASH" >> $GITHUB_OUTPUT
